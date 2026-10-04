@@ -42,4 +42,4 @@ This repo contains documentation. The full extension ($59, one-time) includes:
 
 kyler.simmons.partners@gmail.com
 
-Telegram: https://t.me/PAYLOADTOOLS
+Telegram: https://t.me/payloadtool
